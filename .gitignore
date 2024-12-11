@@ -1,15 +1,5 @@
-# Python 関連
+# .gitignore
+venv/
 __pycache__/
 *.pyc
 *.pyo
-
-# 仮想環境
-venv/
-env/
-
-# VSCode 設定
-.vscode/
-
-# その他
-*.log
-git 
